@@ -1,0 +1,1382 @@
+
+ xml 
+ doctybe!>
+ <html html><"lang="ar<head>meta>charset="utf-8">معلوماتي<title>الشخصية<title/>
+ body
+ {
+ font-family:Arial,sans-serif; 0;padding: 0
+ }
+          header-.
+		  { info background-color:;\*f8f9fa padding:20px text-align:;right-borer-bottom: 1px;solid *ddd
+		  }
+header-information.h2}margin: 0 0;5px 0;color:*333
+}
+header-information.} p:margin:;2px 0;color: *666
+{
+<style/><head/><body>
+div>
+class="header<:-info رائد<h2><h2/>ابراهيم<p>email:raedalmsari79@gmail.com>/p:telephone:+9647703415555<p/>location:<p>Iraq<p/>div/>
+<!DOCTYPE html><html lang=en><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10"><style>:root{--blueviolet: blueviolet;--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}*,::after,::before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%}nav,section{display:block}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}h2,h4,h5,h6{margin-top:0;margin-bottom:.5rem}p{margin-top:0;margin-bottom:1rem}ul{margin-top:0;margin-bottom:1rem}ul ul{margin-bottom:0}b{font-weight:bolder}small{font-size:80%}a{color:#007bff;text-decoration:none;background-color:transparent}img{vertical-align:middle;border-style:none}svg{overflow:hidden;vertical-align:middle}button{border-radius:0}button,input,textarea{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button,input{overflow:visible}button{text-transform:none}[type=button],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{padding:0;border-style:none}textarea{overflow:auto;resize:vertical}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}h2,h4,h5,h6{margin-bottom:.5rem;font-weight:500;line-height:1.2}h2{font-size:2rem}h4{font-size:1.5rem}h5{font-size:1.25rem}h6{font-size:1rem}small{font-size:80%;font-weight:400}.list-unstyled{padding-left:0;list-style:none}.img-fluid{max-width:100%;height:auto}.container,.container-md{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container,.container-md{max-width:720px}}@media (min-width:992px){.container,.container-md{max-width:960px}}@media (min-width:1200px){.container,.container-md{max-width:1140px}}.row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}.col,.col-12,.col-3,.col-6,.col-lg-3,.col-lg-6,.col-md-10,.col-md-3,.col-md-4,.col-md-5,.col-md-9{position:relative;width:100%;padding-right:15px;padding-left:15px}.col{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}@media (min-width:768px){.col-md-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-md-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-md-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-md-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-md-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}}@media (min-width:992px){.col-lg-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-lg-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}}.form-control{display:block;width:100%;height:calc(1.5em + .75rem + 2px);padding:.375rem .75rem;font-size:1rem;font-weight:400;line-height:1.5;color:#495057;background-color:#fff;background-clip:padding-box;border:1px solid #ced4da;border-radius:.25rem}.form-control::-ms-expand{background-color:transparent;border:0}.form-control:-moz-focusring{color:transparent;text-shadow:0 0 0 #495057}.form-control::-webkit-input-placeholder{color:#6c757d;opacity:1}.form-control::-moz-placeholder{color:#6c757d;opacity:1}.form-control:-ms-input-placeholder{color:#6c757d;opacity:1}.form-control::-ms-input-placeholder{color:#6c757d;opacity:1}textarea.form-control{height:auto}.form-group{margin-bottom:1rem}.btn{display:inline-block;font-weight:400;color:#212529;text-align:center;vertical-align:middle;background-color:transparent;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.25rem}.btn-primary{color:#fff;background-color:#007bff;border-color:#007bff}.btn-link{font-weight:400;color:#007bff;text-decoration:none}.fade:not(.show){opacity:0}.dropdown{position:relative}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:10rem;padding:.5rem 0;margin:.125rem 0 0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:.25rem}.dropdown-menu-right{right:0;left:auto}.dropdown-item{display:block;width:100%;padding:.25rem 1.5rem;clear:both;font-weight:400;color:#212529;text-align:inherit;white-space:nowrap;background-color:transparent;border:0}.input-group{position:relative;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-ms-flex-align:stretch;align-items:stretch;width:100%}.input-group>.form-control{position:relative;-ms-flex:1 1 auto;flex:1 1 auto;width:1%;min-width:0;margin-bottom:0}.input-group>.form-control:not(:first-child){border-top-left-radius:0;border-bottom-left-radius:0}.input-group-prepend{display:-ms-flexbox;display:flex}.input-group-prepend .btn{position:relative;z-index:2}.input-group-prepend{margin-right:-1px}.input-group>.input-group-prepend>.btn{border-top-right-radius:0;border-bottom-right-radius:0}.nav{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;padding-left:0;margin-bottom:0;list-style:none}.nav-link{display:block;padding:.5rem 1rem}.nav-pills .nav-link{border-radius:.25rem}.tab-content>.tab-pane{display:none}.navbar{position:relative;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-ms-flex-align:center;align-items:center;-ms-flex-pack:justify;justify-content:space-between;padding:.5rem 1rem}.navbar .container{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-ms-flex-align:center;align-items:center;-ms-flex-pack:justify;justify-content:space-between}@media (max-width:991.98px){.navbar-expand-lg>.container{padding-right:0;padding-left:0}}@media (min-width:992px){.navbar-expand-lg{-ms-flex-flow:row nowrap;flex-flow:row nowrap;-ms-flex-pack:start;justify-content:flex-start}.navbar-expand-lg>.container{-ms-flex-wrap:nowrap;flex-wrap:nowrap}}.card{position:relative;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;min-width:0;word-wrap:break-word;background-color:#fff;background-clip:border-box;border:1px solid rgba(0,0,0,.125);border-radius:.25rem}.card-body{-ms-flex:1 1 auto;flex:1 1 auto;min-height:1px;padding:1.25rem}.card-title{margin-bottom:.75rem}.card-text:last-child{margin-bottom:0}.bg-light{background-color:#f8f9fa!important}.bg-white{background-color:#fff!important}.border{border:1px solid #dee2e6!important}.border-0{border:0!important}.border-success{border-color:#28a745!important}.rounded{border-radius:.25rem!important}.d-none{display:none!important}.d-flex{display:-ms-flexbox!important;display:flex!important}@media (min-width:576px){.d-sm-block{display:block!important}.d-sm-flex{display:-ms-flexbox!important;display:flex!important}}@media (min-width:768px){.d-md-none{display:none!important}.d-md-block{display:block!important}.d-md-flex{display:-ms-flexbox!important;display:flex!important}}@media (min-width:992px){.d-lg-block{display:block!important}.d-lg-flex{display:-ms-flexbox!important;display:flex!important}}.flex-column{-ms-flex-direction:column!important;flex-direction:column!important}.justify-content-around{-ms-flex-pack:distribute!important;justify-content:space-around!important}.align-items-center{-ms-flex-align:center!important;align-items:center!important}@media (min-width:768px){.flex-md-row{-ms-flex-direction:row!important;flex-direction:row!important}}.overflow-hidden{overflow:hidden!important}.position-relative{position:relative!important}@supports ((position:-webkit-sticky) or (position:sticky)){.sticky-top{position:-webkit-sticky;position:sticky;top:0;z-index:1020}}.shadow{box-shadow:0 .5rem 1rem rgba(0,0,0,.15)!important}.h-100{height:100%!important}.m-0{margin:0!important}.mb-1{margin-bottom:.25rem!important}.mb-2{margin-bottom:.5rem!important}.mx-3{margin-right:1rem!important}.mb-3{margin-bottom:1rem!important}.mx-3{margin-left:1rem!important}.my-4{margin-top:1.5rem!important}.mb-4,.my-4{margin-bottom:1.5rem!important}.mb-5{margin-bottom:3rem!important}.p-0{padding:0!important}.pt-0,.py-0{padding-top:0!important}.px-0{padding-right:0!important}.py-0{padding-bottom:0!important}.px-0{padding-left:0!important}.p-1{padding:.25rem!important}.py-1{padding-top:.25rem!important}.pr-1,.px-1{padding-right:.25rem!important}.py-1{padding-bottom:.25rem!important}.px-1{padding-left:.25rem!important}.py-2{padding-top:.5rem!important}.pr-2,.px-2{padding-right:.5rem!important}.py-2{padding-bottom:.5rem!important}.pl-2,.px-2{padding-left:.5rem!important}.px-3{padding-right:1rem!important}.px-3{padding-left:1rem!important}.p-4{padding:1.5rem!important}.py-5{padding-top:3rem!important}.px-5{padding-right:3rem!important}.py-5{padding-bottom:3rem!important}.px-5{padding-left:3rem!important}.m-auto{margin:auto!important}.mx-auto{margin-right:auto!important}.ml-auto,.mx-auto{margin-left:auto!important}@media (min-width:576px){.p-sm-2{padding:.5rem!important}}@media (min-width:768px){.ml-md-4{margin-left:1.5rem!important}.py-md-0{padding-top:0!important}.py-md-0{padding-bottom:0!important}.p-md-2{padding:.5rem!important}.p-md-3{padding:1rem!important}.py-md-3{padding-top:1rem!important}.py-md-3{padding-bottom:1rem!important}.pt-md-5,.py-md-5{padding-top:3rem!important}.py-md-5{padding-bottom:3rem!important}}.text-center{text-align:center!important}.font-weight-bold{font-weight:700!important}.text-dark{color:#343a40!important}.btn-blueviolet{background-color:var(--blueviolet)!important;border-color:var(--blueviolet)!important;color:#fff!important}.breadcrumb{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;padding:.75rem 1rem;margin-bottom:1rem;list-style:none;background-color:#e9ecef;font-size:14px}.pl-0,.px-0{padding-left:0!important}.mb-0,.my-0{margin-bottom:0!important}.breadcrumb-item+.breadcrumb-item{padding-left:.5rem}dl,ol,ul{margin-top:0;margin-bottom:1rem}.breadcrumb-item+.breadcrumb-item::before{float:left;padding-right:.5rem;color:#6c757d;content:"/"}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin-bottom:.5rem;font-weight:500;line-height:1.2}h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:.5rem}.corporate-btn{display:block !important;top:45%;right:0;-ms-writing-mode:tb-lr;writing-mode:vertical-lr;-webkit-text-orientation:mixed;text-orientation:mixed;padding:1rem .4rem;color:#000;background-color:#fa8501;color:#fff;font-weight:bold;-webkit-writing-mode:vertical-lr;-ms-writing-mode:vertical-lr;padding-right:.2rem}.corporate-btn,.whatsapp{position:fixed;z-index:9999}.whatsapp{display:block !important;bottom:10px;left:10px;border-radius:4px;}@media screen and (max-width:768px){.whatsapp{bottom:50px;left:2px}}</style><link rel="stylesheet" href="/static/css/onload-chunk.css" media="print" onload="this.media='all'"><link rel="icon" href="/images/facicon.png" type="image/png" sizes="16x16"><link rel="alternate" href="https://mildaintrainings.com" hreflang="en" /><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta property="og:locale" content="en_US" /><meta property="og:type" content="website" /><meta property="og:site_name" content="mildaintrainings.com" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:description" content=" Mildaintrainings, Help millions of Customers Worldwide fulfilling their learning need, We offer IT Online/Classroom & Corporate Training Customize courses to help professional." /><meta name="twitter:title" content=" Mildaintrainings: Online IT Certification Training | Corporate Training" /><meta name="twitter:site" content=" @mildain_sol" /><meta name="twitter:creator" content="@mildain_sol" /><meta name="google-site-verification" content="5_LB-6rRKe1YHVefqdOtPknVk0BZVRpm_NVbExj8JJk" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous" media="print" onload="this.media='all'">
+<link rel="dns-prefetch" href="//apis.google.com/">
+<link rel="dns-prefetch" href="//www.gstatic.com/">
+<link rel="dns-prefetch" href="//www.googletagmanager.com/"/>
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com/"/>
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net/" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com/" />
+<link rel="dns-prefetch" href="//www.google.com/" />
+<link rel="dns-prefetch" href="//embed.tawk.to/" />
+<link rel="dns-prefetch" href="//connect.facebook.net/" />
+<meta name="facebook-domain-verification" content="2rgp7xqv6gmowmgw1jurzomw4fsblt" />
+<meta name="msvalidate.01" content="4EEEE7286D770E4E809D83D17304B85B" />
+
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16455415964"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-16455415964'); </script>
+
+<script> gtag('config', 'AW-16455415964/cw33CMeMt6sZEJzxxqY9', { 'phone_conversion_number': '8447121833' }); </script>
+
+<!-- Google tag (gtag.js) --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H75C9XQ2VD"></script> 
+<script> 
+    window.dataLayer = window.dataLayer || []; 
+    function gtag(){dataLayer.push(arguments);} 
+    gtag('js', new Date()); gtag('config', 'G-H75C9XQ2VD'); 
+</script>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11062434306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11062434306');
+</script>
+
+<script type="text/javascript">
+    _linkedin_partner_id = "6934009";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+    </script><script type="text/javascript">
+    (function(l) {
+    if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+    window.lintrk.q=[]}
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript";b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);})(window.lintrk);
+    </script>
+    <noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=6934009&fmt=gif" />
+    </noscript>
+
+
+<!-- Meta Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1484718295718196');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1484718295718196&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+
+    <!-- Google tag (gtag.js) --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16455234369"></script> 
+    <script> 
+    window.dataLayer = window.dataLayer || []; 
+        function gtag(){dataLayer.push(arguments);} 
+        gtag('js', new Date()); 
+        gtag('config', 'AW-16455234369'); 
+    </script>
+    
+    <title> 
+DWDM Training – Mildaintrainings
+</title><link rel="stylesheet" type="text/css" href="/static/css/old/courses-v2.css">
+<meta name="description" content="DWDM Training provides an overview of Dense Wavelength Division Multiplexing (DWDM) network planning, architecture, design, protocols, testing and implementation.">
+    
+   <meta keywords="dwdm training, telecom training, telecom training courses, telecom sales training, telecom training online, telecom technical training,">
+    
+    <link rel="canonical" href="https://mildaintrainings.com/telecom-training/dwdm-training/" />
+    
+<meta property="og:title" content="DWDM Training – Mildaintrainings"/>
+
+<meta property="og:description" content="DWDM Training provides an overview of Dense Wavelength Division Multiplexing (DWDM) network planning, architecture, design, protocols, testing and implementation."/>
+
+<meta property="og:url" content="https://mildaintrainings.com/telecom-training/dwdm-training/"/>
+
+<meta property="og:image" content="https://mildaintrainings.com/images/courses/telecom.png"/>
+<style>
+.side-img {
+    display: flex;
+    flex: 1;
+    background: url('https://mildaintrainings.com/images/courses/telecom.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+}
+</style>
+</head><body><section id="top-offer" style="display: none;"> <p class="offer-details">Mid Month offer - Upto 25% off | OFFER ENDING IN: <span id='timerRef'></span></p><button class="grab-offer" onclick="showFForms('Grab Offer')">Grab Now</button> <button class="close-offer" onclick="closeOffer()">&#10005;</button></section><div id="top-bar" class="d-none d-md-block" style="background-color: aliceblue;"> <div class="container-md py-2 d-flex"> <div class="ml-auto"> 
+    <a class="dropdown show">
+        <a class="dropdown-toggle pr-2" href="#" role="button" id="languagemenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Language Courses
+        </a>      
+        <div class="dropdown-menu border-0 shadow" aria-labelledby="languagemenu" style="z-index:10000;">
+          <a class="dropdown-item" href="/french-language-online-course/">French</a>
+          <a class="dropdown-item" href="/spanish-language-online-course/">Spanish</a>
+          <a class="dropdown-item" href="/ielts-preparation-program/">IELTS</a>
+        </div>
+    </a>
+    <a class="px-2" href="/corporate-training/">Corporate Training</a><a class="px-2" href="/contact-us/">Become an Instructor</a><a class="pl-2" href="/internship/">Internship/Jobs</a>
+ 
+
+    
+
+</div></div></div><nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light sticky-top py-md-0"> <div class="container px-0"> <div> <a href="/"><img height="40" width="180" src="/static/images/common/logo.png" class="img-fluid" alt="logo"/></a></div><div class="d-none d-md-block" id="menu-btn"> <a class="btn btn-primary mx-3" href="/courses/"> <span class="pr-1"> <svg height="20" width="20" xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"> <title>All Courses</title> <rect x="48" y="48" width="176" height="176" rx="20" ry="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/> <rect x="288" y="48" width="176" height="176" rx="20" ry="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/> <rect x="48" y="288" width="176" height="176" rx="20" ry="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/> <rect x="288" y="288" width="176" height="176" rx="20" ry="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/> </svg></span> <span>All Courses</span></a></div><div class="d-none d-md-block col-12 col-md-5 position-relative"> <form class="search-form" action="/search/"> <div id="search" class="input-group m-0 border rounded border-success"> <div class="input-group-prepend"> <button class="btn bg-white border-0 d-flex align-items-center" type="submit"> <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background: new 0 0 512 512" xml:space="preserve" width="20px" fill="#798288"> <title>Search</title> <g> <g> <path d="M225.474,0C101.151,0,0,101.151,0,225.474c0,124.33,101.151,225.474,225.474,225.474 c124.33,0,225.474-101.144,225.474-225.474C450.948,101.151,349.804,0,225.474,0z M225.474,409.323 c-101.373,0-183.848-82.475-183.848-183.848S124.101,41.626,225.474,41.626s183.848,82.475,183.848,183.848 S326.847,409.323,225.474,409.323z"> </path> </g> </g> <g> <g> <path d="M505.902,476.472L386.574,357.144c-8.131-8.131-21.299-8.131-29.43,0c-8.131,8.124-8.131,21.306,0,29.43l119.328,119.328 c4.065,4.065,9.387,6.098,14.715,6.098c5.321,0,10.649-2.033,14.715-6.098C514.033,497.778,514.033,484.596,505.902,476.472z"> </path> </g> </g> </svg> </button></div><input type="text" class="form-control bg-white border-0" id="searchKeyword" placeholder="Enter Course, Category or Keyword" title="Please Enter Course, Category or Keyword" required name="s" autocomplete="off"> </div></form> <ul class="search-ul shadow" id="search-auto-complete" style="display:none;"></ul> </div><div class="dropdown ml-auto d-md-block d-none"> <button class="btn btn-link" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512" height="40"> <title>Menu</title> <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M80 160h352M80 256h352M80 352h352"/> </svg> </button> <div class="dropdown-menu dropdown-menu-right border-0 shadow m-0" aria-labelledby="dropdownMenuButton"> <a class="dropdown-item" href="/courses/">IT Training</a><a class="dropdown-item" href="/telecom-training/">Telecom Training</a><a class="dropdown-item" href="/corporate-training/">Corporate Training</a><a class="dropdown-item" href="/courses/">Online Training</a><a class="dropdown-item" href="/courses/">Classroom Training</a><a class="dropdown-item" href="/internship/">Job Support</a><a class="dropdown-item" href="/blogs/">Blogs</a> <a class="dropdown-item" href="/about-us/">About us</a> <a class="dropdown-item" href="/contact-us/">Contact us</a></div></div><a id="mobileMenu" class="ml-auto d-md-none"> <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512" height="40"> <title>Menu</title> <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M80 160h352M80 256h352M80 352h352"/> </svg></a> </div></nav><!-- breadcrumbs -->
+ <div class="bred" style="background-color: #e9ecef;">
+     <div class="container bred2">
+        <nav aria-label="breadcrumb" class="bred3">
+            <ol class="breadcrumb mb-0 pl-0">
+                <li class='breadcrumb-item'><a href="https://mildaintrainings.com/">Home</a></li><li class='breadcrumb-item'><a href="https://mildaintrainings.com/telecom-training">Telecom Training</a></li><li class='breadcrumb-item active' aria-current='page'>Dwdm Training</li>            </ol>
+        </nav>
+     </div>
+ </div><section class="container-full color">
+        <section class="container mod">
+            <div class="col-2 side-content">
+            <h1 class="page-title">DWDM Training – Dense Wavelength Division Multiplexing</h1>
+            <p>DWDM training provides an overview of Dense Wavelength Division Multiplexing (DWDM) network planning, architecture, design, protocols, testing and implementation.</p>
+    <ul>
+        <li>&#10004; Course Duration :  2 Days
+</li>
+        <li>&#10004; Training Options : Live Online / Self-Paced / Classroom
+</li>
+        <li>&#10004; Certification Pass : Guaranteed
+</li>
+    </ul></div>
+            <div class="col-1 side-img"></div>
+        </section>
+</section>
+<section class="container-full BT">
+    <section class="container-full sticky-sec BB">
+            <a href="#overview">OVERVIEW</a>
+            <a href="#obj">LEARNING OBJECTIVES</a>
+            <a href="#pre">PRE-REQUISITES</a>
+            <a href="#cur">CURRICULUM</a>
+            <a href="#faq">FAQ</a>
+            <a href="#cert">CERTIFICATE</a>
+            <button class="callback" onclick="showContactForm()">Request Callback</button>
+        </section>
+    <section class="container py-3 py-md-5">
+        <div class="row">
+            <div class="col-lg-8 c-content justify">
+                <div id="overview"></div>
+                <h3>Overview</h3>
+                <div class="dec"></div>
+                <p>DWDM training provides an overview of Dense Wavelength Division Multiplexing (DWDM) network planning, architecture, design, protocols, testing and implementation.</p>
+                <div id="obj"></div>
+                <h3>What you will Learn</h3>
+                <div class="dec"></div>
+                <ul class="ul"><li>Understand the basics of optical communications</li><li>Understand the basics of DWDM</li><li>Explain basic DWDM Network Designs and Engineering</li><li>Identify various optical communication principles as well as communication methodologies in an optical fiber</li><li>Learn how to analyze optical links based on power budget</li><li>Classify and design DWDM networks based on size and performance</li><li>Understand and basic design nodal architectures for different classification of DWDM networks</li><li>Learn how to utilize different parameters in DWDM networks and optical systems</li></ul>
+                <div id="pre"></div>
+                <h3>PREREQUISITES</h3>
+                <div class="dec"></div>
+                <ul class="ul"></ul><div id="cur"></div><h3>CURRICULUM</h3><div class="dec"></div><section class="accordion-section"><button class="accordion">Module 1: Introduction to Optical Networking</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Fiber Optics</li><li>Fiber Losses</li><li>Dispersion in Fiber</li><li>Nonlinearities</li><li>Window of Operations</li><li>Fiber Types</li><li>Optical amplifiers</li><li>Light sources and transmitters</li><li>Photodiodes and receivers</li><li>Optical communication systems</li><li>The Physics of Optical components</li><li>Light-Matter and Light-Matter-Light</li></ul></p></div><button class="accordion">Module 2: Common Single Mode Fiber Types</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Standard Single Mode Fiber</li><li>Dispersion Shifted Fiber (DSF)</li><li>Dispersion-compensating fiber (DCF)</li><li>Non-Zero Dispersion Shifted Fiber (NZ-DSF</li><li>Positive Dispersion SMF</li><li>Dispersion Compensation Unit (DCU)</li></ul></p></div><button class="accordion">Module 3: Introduction to DWDM</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Optical Networking and DWDM</li><li>Optical Network Breakthroughs</li><li>Special Fibers</li><li>S, C and L Bands</li><li>Optical Components</li><li>Optical Spectral Filters and Gratings</li><li>Optical Demultiplexers</li><li>The Erbium-Doped Fiber Amplifier (EDFA)</li><li>The Tunable Laser Diode Operating at 1550 nm</li><li>In-Fiber Bragg Grating</li><li>Light Sources</li><li>Optical Cross-Connects</li><li>Optical Add-Drop Multiplexers</li><li>DWDM and SONET</li></ul></p></div><button class="accordion">Module 4: DWDM Components and Architecture</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>DWDM Anatomy</li><li>DWDM Impairments</li><li>Multiwavelength Transmitters</li><li>Multichannel Receivers</li><li>DWDM Optical Amplifiers</li><li>Wavelength Converters</li><li>Modal Effects</li><li>Scattering Effects</li><li>Miscellaneous Effects</li></ul></p></div><button class="accordion">Module 5: DWDM Impairments</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Spectrum</li><li>Availability, Occupancy, Efficiency</li><li>Bandwidth &amp; Distance Limitations</li><li>Noise, Dispersion, Non-linearities</li></ul></p></div><button class="accordion">Module 6: Wavelength Adaptation</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Wavelength Adapter (or transponder)</li><li>Wavelength Converter</li><li>Precision Wavelength Transmitters (ITU wavelength)</li></ul></p></div><button class="accordion">Module 7: Basic DWDM Optical Components and Elements</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Optical Filters</li><li>Optical Couplers</li><li>Optical Power Attenuators</li><li>Polarizer and Rotators</li><li>Optical Isolators and Circulators</li><li>Optical Multiplexers and Demultiplexers</li><li>Optical Cross Connects (OCXs)</li><li>Optical Add Drop Multiplexers</li><li>Optical Equalizers</li><li>Light Sources</li><li>Laser Beams</li><li>Modulators</li><li>Photodetectors and Receivers</li><li>Optical Amplifiers</li><li>Wavelength Convertors</li><li>Optical Phase-Locked Loops</li><li>Ring Resonators</li><li>Optical Attenuators</li><li>Optical SNR</li></ul></p></div><button class="accordion">Module 8: DWDM Mux and Demux</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Channel spacing of 100GHz and 50GHz</li><li>DWDM Demux</li><li>Mux / Demux Technology</li><li>Thin film filters</li><li>Fiber Bragg gratings</li><li>Diffraction gratings</li><li>Arrayed waveguide gratings</li><li>Fused biconic tapered devices</li><li>Inter-leaver devices</li></ul></p></div><button class="accordion">Module 9: Common Amplifier Types</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>A Typical Optical Amplifier</li><li>Doped Fiber Amplifiers</li><li>Erbium Doped Fiber Amplifiers (EDFA)</li><li>Raman Fiber Amplifiers</li><li>Semiconductor Optical Amplifiers (SOA)</li></ul></p></div><button class="accordion">Module 10: Networking with DWDM</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Optical Systems and Components Analysis</li><li>Optical Transmitters: Lasers</li><li>Modulation: Direct and External</li><li>Optical Receivers: Photodetecters</li><li>Couplers and Circulators</li><li>Cavities and Filter</li><li>Complex Components: Transponders</li><li>Optical Switches</li><li>Mechanical Switches</li><li>Acousto-Optical Switches</li><li>Micro-mechanical switches (MEMS)</li><li>Electro-Optical and Thermo-Optical Switches</li><li>Bubble Technology</li><li>Liquid Crystal Switches</li><li>Hologram-based Switches</li><li>Factors That Affect System Design</li><li>Effect of Chromatic Dispersion</li></ul></p></div><button class="accordion">Module 11: DWDM Span Engineering</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Engineering a DWDM link</li><li>Power Budget Design</li><li>What are the factors?</li><li>Digital Modulation Formats</li><li>Fiber Impairments</li><li>Loss</li><li>Dispersion</li><li>Nonlinear Effects (SPM, XPM, FWM, Raman)</li><li>Polarization Dependent Effects (PDL and PMD)</li></ul></p></div><button class="accordion">Module 12: DWDM Testing, Measurements and OAM&P</button><div class="panel"><p><span class="title">Learning Objectives: </span><ul><li>Component conformance tests</li><li>Parameter tests on optical fibers</li><li>System installation tests</li><li>System optimization tests</li><li>System acceptance tests</li></ul></p></div></section>
+                                <div id="faq"></div>
+                <h3>FAQs</h3>
+                <div class="dec"></div>
+                <section class="accordion-section">
+                    <button class="accordion">How do I enroll for the classroom training?</button>
+                    <div class="panel">
+                        <p>
+                            You can enroll for this classroom training online. Payments can be made using any of the following options and receipt of the same will be issued to the candidate automatically via email.<br>
+                            1. Online ,By deposit the mildain bank account<br>
+
+                            2. Pay by cash team training center location</p>
+                    </div>
+                    <button class="accordion">Who are the trainers for the Classroom/ Online training?</button>
+                    <div class="panel">
+                        <p>
+                            Highly qualified and certified instructors with 20+ years of experience deliver more than 200+ classroom training.</p>
+                    </div>
+                    <button class="accordion">I’d like to learn more about this training program. Who should I contact?</button>
+                    <div class="panel">
+                        <p>Contact us using the form on the right of any page on the mildaintrainings website, or select the Live Chat link. Our customer service representatives will be able to give you more details.</p>
+                    </div>
+
+                    <button class="accordion">What if I miss a training class?</button>
+                    <div class="panel">
+                        <p>
+                            You will never miss a lecture at Mildaintrainigs! You can choose either of the two options:
+
+                            View the recorded session of the class available in your LMS.
+                            You can attend the missed session, in any other live batch.</p>
+                    </div>
+
+                    <button class="accordion">Can I attend a demo session before enrollment?</button>
+                    <div class="panel">
+                        <p>
+                            We have a limited number of participants in a live session to maintain the Quality Standards. So, unfortunately, participation in a live class without enrollment is not possible. However, you can go through the sample class recording and it would give you a clear insight about how are the classes conducted, quality of instructors and the level of interaction in a class.</p>
+                    </div>
+
+                    <button class="accordion">If I need to cancel my enrollment, can I get a refund?</button>
+                    <div class="panel">
+                        <p>Yes, you can cancel your enrollment if necessary prior to 3rd session i.e first two sessions will be for your evaluation. We will refund the full amount without deducting any fee for more details check our <a href="https://mildaintrainings.com/policy/">Refund Policy</a></p>
+                    </div>
+
+                    <button class="accordion">Are the course artifacts and class recording available even after the course ends?</button>
+                    <div class="panel">
+                        <p>Yes, the access to the course material will be available for lifetime once you have enrolled into the course.</p>
+                    </div>
+
+                    <button class="accordion">What if I have more queries?</button>
+                    <div class="panel">
+                        <p>Just give us a CALL at +91 8447121833 OR email at info@mildaintrainings.com</p>
+                    </div>
+                </section>
+                                <script>
+                    // accordion function
+                    var acc = document.getElementsByClassName("accordion");
+                    var i;
+                    for (i = 0; i < acc.length; i++) {
+                        acc[i].addEventListener("click", function() {
+                            this.classList.toggle("active");
+                            var panel = this.nextElementSibling;
+                            if (panel.style.maxHeight) {
+                                panel.style.maxHeight = null;
+                                panel.style.border = "none";
+                                panel.style.marginTop = "4px";
+                            } else {
+                                panel.style.maxHeight = panel.scrollHeight + "px";
+                                panel.style.border = "1px solid #e0e0e0";
+                                panel.style.marginTop = "0";
+                            }
+                        });
+                    }
+                </script>
+            </div>
+            <!-- col right sticky form -->
+            <div class="col-12 col-lg-4 col-right mb-4 mb-md-0">
+                <div class="sticky-top">
+                    <div class="card flex-row shadow border-0 rounded-0">
+                        <div class="card-body d-flex BL">
+                            <div>
+                                <small> Call us At </small>
+                                <h4>+91 8447121833</h4>
+                                <small> Available 24x7 for your queries </small>
+                            </div>
+                            <a href="tel:918447121833" class="call-us">
+                                <img src="/static/images/common/placeholder.svg" class="lazy img-fluid" height="50" width="50" loading="lazy" data-src="/static/images/common/call.svg" alt="call" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="card mt-4 text-center shadow p-4 border-0">
+                        <!-- Sticky form -->
+<form onsubmit="showSuccess()" action="/thank-you/" method="POST">
+<h5 class="mb-3">Request More Information</h5>
+            <input class="form-control mb-3" type="text" placeholder="Name" oninput="this.value = this.value.replace(/[^a-zA-Z, ]/, '')" name="uname" required>
+            <input class="form-control mb-3" type="email" placeholder="Email" oninput="this.value = $(this).val().replace(/[^\w\s\][.@]/gi, '');" name="uemail" required>
+            <input class="form-control mb-3" type="text" placeholder="Contact Number" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" name="uno" required>
+            <input class="form-control mb-3" type="hidden" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" name="ucourse">
+            <input class="form-control mb-3" type="hidden" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" name="uloc">
+            <input class="form-control mb-3" type="hidden" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" name="ucompany">
+            <input class="form-control mb-3" type="hidden" name="participants">
+            <input class="form-control mb-3" type="hidden" name="formType" value="More info Requested">
+            <input class="form-control mb-3" type="hidden" name="fromaddress" class="fromaddress">
+            <textarea class="form-control mb-3" type="text" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" placeholder="Your Query" name="uquery" rows="2"></textarea>
+            <input class="form-control mb-3" type="hidden" name="token" value="4be2b07edf93fbbff5e83675cadf48d07361a3e69b4f250d76581348207b6ad0">
+            <button type="submit" class="btn btn-blueviolet px-5 rounded-0">Send</button>
+                </form>                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+            <div class="bg-dull py-4">
+        <div class="container">
+            <h2 class="mt-4 mb-5 h2-res newh2">Training <b>Features</b></h2>
+<div class="row">
+    <div class="col-12 col-md-6 d-flex">
+        <img src="/static/images/common/experiential.png" class="lazy img-fluid mb-auto mr-3" height="48" width="50" loading="lazy" data-src="/static/images/common/experiential.png" alt="experiential.png">
+        <div class="card border-0 mb-4 bg-transparent">
+            <h5 class="font-weight-bold">Experiential Workshops</h5>
+            <p>
+                Top-rated instructors imparting in-depth training, hands-on exercises with high energy workshop
+            </p>
+        </div>
+    </div>
+    <div class="col-12 col-md-6 d-flex">
+        <img src="/static/images/common/application.png" class="lazy img-fluid mb-auto mr-3" height="48" width="50" loading="lazy" data-src="/static/images/common/application.png" alt="icon">
+        <div class="card border-0 mb-4 bg-transparent">
+            <h5 class="font-weight-bold">
+                Certificate Exam Application Assistance
+            </h5>
+            <p>
+                The training program includes several lab assignments, developed as per real industry scenarios.
+            </p>
+        </div>
+    </div>
+    <div class="col-12 col-md-6 d-flex">
+        <img src="/static/images/common/certificateexa.png" class="lazy img-fluid mb-auto mr-3" height="48" width="50" loading="lazy" data-src="/static/images/common/certificateexa.png" alt="icon">
+        <div class="card border-0 mb-4 bg-transparent">
+            <h5 class="font-weight-bold">Certificate Exam Success Formula</h5>
+            <p>
+                Training begins taking a fresh approach from basic, unique modules, flexible, and enjoyable.
+            </p>
+        </div>
+    </div>
+    <div class="col-12 col-md-6 d-flex">
+        <img src="/static/images/common/journey.png" class="lazy img-fluid mb-auto mr-3" height="48" width="50" loading="lazy" data-src="/static/images/common/journey.png" alt="icon">
+        <div class="card border-0 mb-4 bg-transparent">
+            <h5 class="font-weight-bold">Certificate Journey Support</h5>
+            <p>
+                Basic to intermediate and eventually advanced practicing full hands-on lab exercises till you master.
+            </p>
+        </div>
+    </div>
+    <div class="col-12 col-md-6 d-flex">
+        <img src="/static/images/common/free.png" class="lazy img-fluid mb-auto mr-3" height="48" width="50" loading="lazy" data-src="/static/images/common/free.png" alt="icon">
+        <div class="card border-0 mb-4 bg-transparent">
+            <h5 class="font-weight-bold">Free Refresh Course</h5>
+            <p>
+                Refresh training for experts for mastering and enhancing the skills on the subjects with fresh course modules.
+            </p>
+        </div>
+    </div>
+    <div class="col-12 col-md-6 d-flex">
+        <img src="/static/images/common/exclusive.png" class="lazy img-fluid mb-auto mr-3" height="48" width="50" loading="lazy" data-src="/static/images/common/exclusive.png" alt="icon">
+        <div class="card border-0 mb-4 bg-transparent">
+            <h5 class="font-weight-bold">Exclusive Post-Training Sessions</h5>
+            <p>
+                Includes evaluation, feedback, and tips to handle critical issues in live setup after you are placed in a job.
+            </p>
+        </div>
+    </div>
+</div>        </div>
+    </div>
+            <div class="container-full py-5 position-relative">
+    <span id="cert" style="scroll-margin-top: 100px;"></span>
+    <div class="container certificate">
+        <h2 class="mb-4 h2-res newh2" style="flex:auto">Mildain's Master <b>Certificate</b></h2>
+        <div class="row">
+            <div class="col-12 col-md-6">
+                <div class="card-body pl-0">
+                    <h4 class="card-title">Earn your certificate</h4>
+                    <p class="card-text">
+                        This certificate proves that you have taken a big leap in mastering the domain comprehensively.
+                    </p>
+                    <h4 class="card-title">
+                        Differentiate yourself with a Masters Certificate
+                    </h4>
+                    <p class="card-text">
+                        Now you are equipped with real-industry knowledge, required skills, and hands-on experience to stay ahead of the competition.
+                    </p>
+
+                    <h4 class="card-title">Share your achievement</h4>
+                    <p class="card-text">
+                        Post the certificate on LinkedIn and job sites to boost your profile. Notify your friends and colleagues by sharing it on Twitter and Facebook.
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-6">
+                <picture>
+                    <source type="image/webp" srcset="/static/images/certificate/certificate.webp">
+                    <source type="image/jpeg" srcset="/static/images/certificate/certificate.jpg">
+                    <img src="/static/images/certificate/certificate.jpg" class="img-fluid" height="371" width="525" alt="certificate.jpg">
+                  </picture>
+              
+            </div>
+        </div>
+    </div>
+</div>    </section>
+<div id=partners-slider-wrapper style=min-height:172px>
+    <partners-slider></partners-slider>
+    </div><a href="https://api.whatsapp.com/send?phone=918447121833&amp;text=" class="whatsapp"><img height=50 width=50 src=/static/images/common/whatsapp.svg alt="whatsapp"></a><a href=# class="back-to-top"> <img loading="lazy" class="lazy img-fluid" height=30 width=30 src="/static/images/common/arrow-top.svg" data-src="/static/images/common/arrow-top.svg" alt="arrow"> </a>
+    <footer class="footer text-light pb-5" style=background-color:#1a1a1a>
+    <div class=container>
+    <h2 class=py-4><a class=text-light href=/ >Mildaintrainings<br></a></h2>
+    <div class=row>
+    <div class="col-12 col-md-6 col-lg-4">
+    <h5>TRENDING CERTIFICATION COURSES</h5>
+    <ul class=list-unstyled>
+    <li><a href=/devops-training-courses/ >DevOps Certification Training</a></li>
+    <li><a href=/courses/aws-certification-training/ >AWS Architect Certification Training</a></li>
+    <li><a href=/courses/react-js-training/ >React JS Certification Training</a></li>
+    <li><a href=/tableau-training/ >Tableau Certification Training</a></li>
+    <li><a href=/courses/python-training/ >Python Certification Training for Data Science</a></li>
+    <li><a href=/microsoft-azure-certification/ >Microsoft Azure Training</a></li>
+    <li><a href=/rpa-training/ >RPA Certification Training</a></li>
+    <li><a href=/guidewire-certification/ >Guidewire Certification Training</a></li>
+    <li><a href=/pmp-certification-training/ >PMP Certification Exam Training</a></li>
+    <li><a href=/selenium-testing-training/ >Selenium Certification Training</a></li>
+    </ul>
+    </div>
+    <div class="col-12 col-md-6 col-lg-4">
+    <h5>TRENDING MASTER COURSES</h5>
+    <ul class=list-unstyled>
+    <li><a href=/master-data-science-course-program/ >Data Scientist Masters Program</a></li>
+    <li><a href=/devops-training-courses/ >DevOps Engineer Masters Program</a></li>
+    <li><a href=/courses/aws-certification-training/ >Cloud Architect Masters Program</a></li>
+    <li><a href=/oracle-training/ >Oracle Masters Program</a></li>
+    <li><a href=/ai/machine-learning/ >Machine Learning Engineer Masters Program</a></li>
+    <li><a href=/linux-unix-training/ >Unix & Linux Masters Program</a></li>
+    <li><a href=/sap-training/ >SAP Masters Program</a></li>
+    <li><a href=/ai/deep-learning/ >Deep Learning Masters Program</a></li>
+    <li><a href=/selenium-testing-training/ >Test Automation Engineer Masters Program</a></li>
+    <li><a href=/ai/ >Artificial Intelligence Master Program</a></li>
+    </ul>
+    </div>
+    <div class="col-12 col-sm-6 col-md-6 col-lg-2">
+    <h5>COMPANY</h5>
+    <ul class=list-unstyled>
+    <li><a href=/about-us/ >About us</a></li>
+    <li><a href=/contact-us/ >Contact us</a></li>
+    <li><a href=/blogs/ >Blog</a></li>
+    <li><a href=/policy/ >Privacy Policy</a></li>
+    <li><a href=/terms-and-conditions/ >Term and Conditions</a></li>
+    <li><a href=/courses/ >Reviews</a></li>
+    <li><a href=/corporate-training/ >Corporate Training</a></li>
+    <li><a href=/contact-us/ >Help and Support</a></li>
+    <li><a href=/contact-us/ >Feedback</a></li>
+    <li><a href=/contact-us/ >Login/Signup</a></li>
+    </ul>
+    </div>
+    <div class="col-12 col-sm-6 col-md-6 col-lg-2">
+    <h5>ONLINE PAYMENTS</h5>
+    <div class="row">
+    <div class="col-4 col-md-4 mb-3"> <a href="https://mildaintrainings.com/online-registration/" target=_blank rel=noopener aria-label=online-payment><img loading=lazy height=38 width=214 src="/images/credit-card-logos.png" alt="online-payment"></a></div>
+    </div>
+    <h5>WORK WITH US</h5>
+    <ul class=list-unstyled>
+    <li><a href=/contact-us/ >Careers</a></li>
+    <li><a href=/contact-us/ >Become an Instructor</a></li>
+    <!-- <li><a href=/contact-us/ >Become an Affiliate</a></li> -->
+    <li><a href=/contact-us/ >Become a Partner</a></li>
+    <!-- <li><a href=/contact-us/ >Hire from us</a></li> -->
+    </ul>
+    <h5>SOCIAL MEDIA</h5>
+    <div class="row social-icons">
+    <div class="col-4 col-md-4 mb-2"> <a href=https://www.facebook.com/mildaintrainings target=_blank rel=noopener aria-label=facebook><img loading=lazy class=lazy height=35 width=35 src="/static/images/common/logo-facebook.svg" data-src="/static/images/common/logo-facebook.svg" alt="facebook"></a></div>
+    <div class="col-4 col-md-4 mb-2"> <a href=https://www.youtube.com/channel/UCqSbGsCCeB7RhDy0-CUrI9Q target=_blank rel=noopener aria-label=youtube><img loading=lazy class=lazy height=35 width=35 src="/static/images/common/logo-youtube.svg" data-src="/static/images/common/logo-youtube.svg" alt="youtube"></a></div>
+    <div class="col-4 col-md-4 mb-2"> <a href=https://www.instagram.com/mildain_trainings/ target=_blank rel=noopener aria-label=instagram><img loading=lazy class=lazy height=35 width=35 src="/static/images/common/logo-instagram.svg" data-src="/static/images/common/logo-instagram.svg" alt="instagram"></a></div>
+    <div class="col-4 col-md-4"> <a href=https://www.linkedin.com/company/officialmildaintrainings target=_blank rel=noopener aria-label=linkedin><img loading=lazy class=lazy height=35 width=35 src="/static/images/common/logo-linkedin.svg" data-src="/static/images/common/logo-linkedin.svg" alt="linkedin"></a></div>
+    <div class="col-4 col-md-4"> <a href="https://web.whatsapp.com/send?phone=918447121833" target=_blank rel=noopener aria-label=whatsapp><img loading=lazy class=lazy height=35 width=35 src="/static/images/common/logo-whatsapp.svg" data-src="/static/images/common/logo-whatsapp.svg" alt="whatsapp"></a></div>
+    <div class="col-4 col-md-4"> <a href=https://twitter.com/mildain_sol target=_blank rel=noopener aria-label=twitter><img loading=lazy class=lazy height=35 width=35 src="/static/images/common/logo-twitter.svg" data-src="/static/images/common/logo-twitter.svg" alt="twitter"></a></div>
+    </div>
+    </div>
+    </div>
+    <hr class=mt-0 style=background-color:#b6b4b4>
+    <div class=categories>
+    <h5>CATEGORIES</h5>
+    <ul class=list-unstyled>
+    <li><a href=/courses/ >PG Programs</a></li>
+    <li><a href=/courses/cloud-computing/ >Cloud Computing</a></li>
+    <li><a href=/devops-training-courses/ >DevOps</a></li>
+    <li><a href=/oracle-training/ >Oracle</a></li>
+    <li><a href=/master-data-science-course-program/ >Data Science</a></li>
+    <li><a href=/hr-training-certification-courses/ >HR Analytics</a></li>
+    <li><a href=/programming-courses/ >Programming & Frameworks</a></li>
+    <li><a href=/selenium-testing-training/ >Testing</a></li>
+    <li><a href=/pmp-certification-training/ >PMP</a></li>
+    <li><a href=/rpa-training/ >Robotic Process Automation</a></li>
+    <li><a href=/tableau-training/ >Tableau</a></li>
+    <li><a href=/ai/ >Artificial Intelligence</a></li>
+    <li><a href=/blockchain-certification-training/ >Blockchain</a></li>
+    <li><a href=/wso2-training/ >WSO2</a></li>
+    <li><a href=/bdd-courses/ >BDD</a></li>
+    <li><a href=/cyber-security/ >Cyber Security</a></li>
+    <li><a href=/xamarin-training/ >Mobile Development</a></li>
+    <li><a href=/vmware-training/ >Vmware</a></li>
+    <li><a href=/mulesoft-training/ >Mulesoft</a></li>
+    <li><a href=/spring-training/ >Spring</a></li>
+    </ul>
+    </div>
+    <div class=text-center>
+    <div class=row>
+    <div class="col-12 col-md-6">
+    <p>© 2025 Mildain Solutions LLP. All rights Reserved.</p>
+    </div>
+    <div class="col-12 col-md-6"> <a class=mr-4 href=/terms-and-conditions/ >Terms & Conditions</a> <a href=/policy/ >Legal & Privacy</a></div>
+    </div>
+    </div>
+    <p style=color:#777> <b>Disclaimer:</b> Some of the Graphics on our website are used that are freely available on public domains.This website may contain copyright material, use of which may not have been specially authorized by the copyright owner.All product names, logos, and brands are property of their respective owners. The certification names are the trademarks of their respective owners. All company, product and service names used in this website are for identification purposes only.We do not own them or have copyright or asked for permission of any type. Use of these names, logos, and brands does not imply endorsement. For more information <b> <a style=color:#c7ccca href=/contact-us/ >contact us</a></b>.</p>
+    <h5 class="mt-2 mb-0">This website uses cookies</h5>
+    <p class=mb-0>We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. You consent to our cookies if you continue to use our website.</p>
+    </div>
+    <hr class="bg-light mb-0">
+    <div class="container py-3">
+    <h5 class="mb-0"> Inquiry: Call | Whats App: <a href=tel:+918447121833>+91-8447121833</a> | Email: <a href=mailto:info@mildaintrainings.com>info@mildaintrainings.com</a></h5>
+    </div>
+    </footer>
+    <sticky-footer></sticky-footer>
+    <section id="successmsg" style="display:none;">
+    <h2>Thanks for Contacting us Our representative will be in touch with you shortly</h2>
+    </section>
+    <div id="spinner" class="d-none">
+    <div class="spinner-border" role="status"> <span class="sr-only">Loading...</span></div>
+    </div>
+    <div class="right-menu" style="display:none;">
+    <div class="smallmenuhead">
+    <div class="row justify-content-around">
+    <div class="col-3"><a class="back mainMenuClose"></a></div>
+    <div class="m-auto">Main Menu</div>
+    <div class="col-3"></div>
+    </div>
+    </div>
+    <ul class="p-4 list-unstyled">
+    <li class=position-relative><a class="right-item" id=allcoursemenu>All Courses<img src=/static/images/common/right-arrow.svg alt="All Courses" style=position:absolute;width:25px;height:25px;top:15px;right:5px></a></li>
+    <li><a class="right-item" href=/corporate-training/ >Corporate Training</a></li>
+    <li><a class="right-item" href=/all-courses/ >Online Training</a></li>
+    <li><a class="right-item" href=/all-courses/ >Classroom Training</a></li>
+    <li><a class="right-item" href=/internship/ >Job Support</a></li>
+    <li><a class="right-item" href=/blogs/ >Blogs</a></li>
+    <li><a class="right-item" href=/contact-us/ >Contact us</a></li>
+    <li><a class="right-item" href=/internship/ >Internship/Jobs</a></li>
+    </ul>
+    </div>
+    <div class="container col-md-10 col-12" id="menu" style="display:none;">
+    <div class="row">
+    <div class="col-md-3 py-md-3 px-0">
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class="col-3"><a class="goBackmainmenu back"></a></div>
+    <div class="m-auto">ALL Courses</div>
+    <div class="col-3"><a class="menuClose"></a></div>
+    </div>
+    </div>
+    <!-- <div class="nav flex-column nav-pills" id=v-pills-tab role=tablist aria-orientation=vertical> <a class=nav-link id=v-pills-c1-tab data-toggle=pill href=#v-pills-c1 role=tab aria-controls=v-pills-c1 aria-selected=false>CompTIA</a> <a class=nav-link id=v-pills-c0-tab data-toggle=pill href=#v-pills-c0 role=tab aria-controls=v-pills-c0 aria-selected=false>EC Council</a> <a class=nav-link id=v-pills-c2-tab data-toggle=pill href=#v-pills-c2 role=tab aria-controls=v-pills-c2 aria-selected=false>Cyber Security</a> <a class=nav-link id=v-pills-c3-tab data-toggle=pill href=#v-pills-c3 role=tab aria-controls=v-pills-c3 aria-selected=false>Artificial Intelligence</a><a class=nav-link id=v-pills-c11-tab data-toggle=pill href=#v-pills-c11 role=tab aria-controls=v-pills-c11 aria-selected=false>Scrumstudy</a> <a class=nav-link id=v-pills-c4-tab data-toggle=pill href=#v-pills-c4 role=tab aria-controls=v-pills-c4 aria-selected=false>Devops</a> <a class=nav-link id=v-pills-c5-tab data-toggle=pill href=#v-pills-c5 role=tab aria-controls=v-pills-c5 aria-selected=false>Data Science</a> <a class=nav-link id=v-pills-c6-tab data-toggle=pill href=#v-pills-c6 role=tab aria-controls=v-pills-c6 aria-selected=false>RPA</a> <a class=nav-link id=v-pills-c7-tab data-toggle=pill href=#v-pills-c7 role=tab aria-controls=v-pills-c7 aria-selected=false>Telecom</a> <a class=nav-link id=v-pills-c8-tab data-toggle=pill href=#v-pills-c8 role=tab aria-controls=v-pills-c8 aria-selected=false>Oracle Training</a><a class=nav-link id=v-pills-c9-tab data-toggle=pill href=#v-pills-c9 role=tab aria-controls=v-pills-c9 aria-selected=false>Guidewire Training</a> <a class=nav-link id=v-pills-c12-tab data-toggle=pill href=#v-pills-c12 role=tab aria-controls=v-pills-c12 aria-selected=false>More Courses</a><a href=https://mildaintrainings.com/courses/ class=m-auto><button class="d-md-none mx-auto my-4 px-3 py-1 border" style="background:0 0">Explore courses&nbsp;&nbsp;<img src=/static/images/common/right-arrow.svg width=25px height=25px alt="arrow"></button></a></div> -->
+     <div class="nav flex-column nav-pills" id=v-pills-tab role=tablist aria-orientation=vertical> <a class=nav-link id=v-pills-c1-tab data-toggle=pill href=#v-pills-c1 role=tab aria-controls=v-pills-c1 aria-selected=false>CompTIA</a>  <a class=nav-link id=v-pills-c2-tab data-toggle=pill href=#v-pills-c2 role=tab aria-controls=v-pills-c2 aria-selected=false>Cyber Security</a> <a class=nav-link id=v-pills-c3-tab data-toggle=pill href=#v-pills-c3 role=tab aria-controls=v-pills-c3 aria-selected=false>Artificial Intelligence</a><a class=nav-link id=v-pills-c11-tab data-toggle=pill href=#v-pills-c11 role=tab aria-controls=v-pills-c11 aria-selected=false>Scrumstudy</a> <a class=nav-link id=v-pills-c4-tab data-toggle=pill href=#v-pills-c4 role=tab aria-controls=v-pills-c4 aria-selected=false>Devops</a> <a class=nav-link id=v-pills-c5-tab data-toggle=pill href=#v-pills-c5 role=tab aria-controls=v-pills-c5 aria-selected=false>Data Science</a> <a class=nav-link id=v-pills-c6-tab data-toggle=pill href=#v-pills-c6 role=tab aria-controls=v-pills-c6 aria-selected=false>RPA</a> <a class=nav-link id=v-pills-c7-tab data-toggle=pill href=#v-pills-c7 role=tab aria-controls=v-pills-c7 aria-selected=false>Telecom</a> <a class=nav-link id=v-pills-c8-tab data-toggle=pill href=#v-pills-c8 role=tab aria-controls=v-pills-c8 aria-selected=false>Oracle Training</a><a class=nav-link id=v-pills-c9-tab data-toggle=pill href=#v-pills-c9 role=tab aria-controls=v-pills-c9 aria-selected=false>Guidewire Training</a> <a class=nav-link id=v-pills-c12-tab data-toggle=pill href=#v-pills-c12 role=tab aria-controls=v-pills-c12 aria-selected=false>More Courses</a><a href=https://mildaintrainings.com/courses/ class=m-auto><button class="d-md-none mx-auto my-4 px-3 py-1 border" style="background:0 0">Explore courses&nbsp;&nbsp;<img src=/static/images/common/right-arrow.svg width=25px height=25px alt="arrow"></button></a></div>
+    </div>
+    <div class="col-md-9 py-md-3 bg-light p-0 p-md-3 mobile-content">
+    <div class=tab-content id=v-pills-tabContent>
+    <div class=tab-pane id=v-pills-c1 role=tabpanel aria-labelledby=v-pills-c1-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>CompTIA</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/comptia-a-plus-training-course/ >CompTIA A+
+    <small>220 1001 & 1002</small></a></li>
+    <li><a href=https://mildaintrainings.com/comptia-security-plus-training-course/ >CompTIA Security+ <small>601</small></a></li>
+    <li><a href=https://mildaintrainings.com/comptia-network-plus-training-course/ >CompTIA Network+ <small>007</small></a></li>
+    <li><a href=https://mildaintrainings.com/comptia-cloud-plus-training-course/ >CompTIA Cloud+ <small>002 & 003</small></a></li>
+    <li><a href=https://mildaintrainings.com/comptia-advance-security-practitioner-plus-training-course/ >CompTIA Casp+ <small>003 & 004</small></a></li>
+    <li><a href=https://mildaintrainings.com/comptia-cybersecurity-analyst-plus-training-course/ >CompTIA Cysa+ <small>002</small></a></li>
+    <li><a href=https://mildaintrainings.com/comptia-pentest-plus-training-course/ >CompTIA PenTest+ <small>001</small></a></li>
+    <li><a href=https://mildaintrainings.com/comptia-server-plus-training-course/ >CompTIA Server+ <small>004 & 005</small></a></li>
+    <li><a href=https://mildaintrainings.com/comptia-linux-plus-training-course/ >CompTIA Linux+ <small>004</small></a></li>
+    </ul>
+    </div>
+    <div class=col-md-4>
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/comptia-all-training-course/ >CompTIA</a></li>
+    <li><a href=https://mildaintrainings.com/comptia-security-plus-training-course/ >CompTIA Security+ <small>601</small></a></li>
+    <li><a href=https://mildaintrainings.com/comptia-network-plus-training-course/ >CompTIA Network+ <small>007</small></a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend"></div>
+    </div>
+    </div>
+    <!-- <div class=tab-pane id=v-pills-c0 role=tabpanel aria-labelledby=v-pills-c0-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>EC Council</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=/ec-council-ceh-training-course/ >EC Council CEH</a></li>
+    <li><a href=/ec-council-cnd-training-course/ >EC Council CND</a></li>
+    <li><a href=/ec-council-cpent-training-course/ >EC Council CPENT</a></li>
+    <li><a href=/certified-threat-intelligence-analyst-ctia-training/ >EC Council CTIA</a></li>
+    </ul>
+    </div>
+    <div class=col-md-4>
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=/ec-council-training-courses/ >EC Council</a></li>
+    </ul>
+    </div>
+    <div class=col-md-4>
+    <p class=menu-title>Master Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=/ec-council-ceh-master-training-course/ >EC Council C|EH Master</a> <a href=/ec-council-ceh-master-training-course/ >
+    <ul class=py-0 style=list-style:disc>
+    <li><small>Hands-on Practice</small></li>
+    <li><small>JobAssist Program</small></li>
+    <li><small>Rigorous Curriculum</small></li>
+    </ul>
+    </a></li>
+    </ul>
+    </div>
+    </div>
+    </div> -->
+    <div class="tab-pane show" id=v-pills-c2 role=tabpanel aria-labelledby=v-pills-c2-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>Cyber Security</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <!-- <li><a href=https://mildaintrainings.com/cyber-security/ceh-v10-certified-ethical-hacker-training-certification/ >CEH v10</a></li> -->
+    <li><a href=https://mildaintrainings.com/cyber-security/ceh-v12-certified-ethical-hacker-training-certification/ >CEH v12</a></li>
+    <li><a href=https://mildaintrainings.com/cyber-security/ccsp-certification-training/ >CCSP</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/cyber-security/cism-certification-training/ >CISM</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/cyber-security/cisa-certification-training/ >CISA</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/cyber-security/certified-penetration-testing-engineer/ >CPTE</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/cyber-security/oscp-certification-training/ >OSCP</a>
+    </li>
+    <!-- <li><a href=https://mildaintrainings.com/cyber-security/certified-chief-information-security-officer-cciso/ >CCISO</a> -->
+    </li>
+    </ul>
+    </div>
+    <div class=col-md-4>
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/cyber-security-trainings-course/ >Cyber Security</a></li>
+    <li><a href=https://mildaintrainings.com/comptia-all-training-course/ >CompTIA</a></li>
+    <!-- <li><a href=/ec-council-training-courses/ >EC Council</a></li> -->
+    </ul>
+    </div>
+    <div class=col-md-4>
+    <p class=menu-title>Master Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/cyber-security-master-program-trainings-course/ >Cyber Security Expert</a> <a href=https://mildaintrainings.com/cyber-security-master-program-trainings-course/ >
+    <ul class=py-0 style=list-style:disc>
+    <li><small>7 courses | Duration: 12 Months</small></li>
+    <li><small>JobAssist Program</small></li>
+    <li><small>Rigorous Curriculum</small></li>
+    </ul>
+    </a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div class=tab-pane id=v-pills-c3 role=tabpanel aria-labelledby=v-pills-c3-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>Artificial Intelligence</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/ai/deep-learning/ >Deep Learning</a></li>
+    <li><a href=https://mildaintrainings.com/ai/machine-learning/ >Machine Learning</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/ai/artificial-neural-network-training-r-python/ >Artificial Neural Networks</a></li>
+    <li><a href=https://mildaintrainings.com/ai/ai-natural-language-processing/ >NLP Master Program</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend">
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/ai/deep-learning/ >Deep Learning</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend"></div>
+    </div>
+    </div>
+    <div class=tab-pane id=v-pills-c4 role=tabpanel aria-labelledby=v-pills-c4-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>Devops</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/chef-training/ >CHEF</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/ansible-training/ >Ansible</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/devops-advanced-training/ >Devops Advanced</a></li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/devops-technical-essentials-training/ >Devops Technical</a></li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/docker-technical-essentials-training/ >Dockers</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/kubernetes-technical-essentials-training/ >Kubernets</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/puppet-technical-essentials-training/ >Puppet</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/saltstack-technical-essentials-training/ >SaltStack</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/docker-with-kubernetes-training/ >Docker with Kubernetes</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend">
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/docker-technical-essentials-training/ >Dockers</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/kubernetes-technical-essentials-training/ >Kubernets</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/devops-training-courses/puppet-technical-essentials-training/ >Puppet</a>
+    </li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend"></div>
+    </div>
+    </div>
+    <div class=tab-pane id=v-pills-c5 role=tabpanel aria-labelledby=v-pills-c5-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>Data Science</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/ai-data-science-using-r-online-training-course/ >Data Science R/SAS</a></li>
+    <li><a href=https://mildaintrainings.com/ai-data-science-using-python-online-training-course/ >Data Science Python</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend">
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/ai-data-science-using-python-online-training-course/ >Data Science Python</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend"></div>
+    </div>
+    </div>
+    <div class=tab-pane id=v-pills-c6 role=tabpanel aria-labelledby=v-pills-c6-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>RPA</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/blue-prism-training/ >Blue Prism</a></li>
+    <li><a href=https://mildaintrainings.com/rpa-workfusion-training/ >Workfusion</a></li>
+    <li><a href=https://mildaintrainings.com/rpa-uipath-training/ >UiPath</a></li>
+    <li><a href=https://mildaintrainings.com/automation-anywhere/ >Automation Anywhere</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/contact-us/ >Openspan</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend">
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/rpa-workfusion-training/ >Workfusion</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend"></div>
+    </div>
+    </div>
+    <div class=tab-pane id=v-pills-c7 role=tabpanel aria-labelledby=v-pills-c7-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>Telecom</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/telecom-training/5g-technology-fundamentals/ >5G Technology Fundamentals</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/oss-bss/ >BSS/OSS Training</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/optical-networking-training/ >Optical Networking Training</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/dwdm-training/ >DWDM Training</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/lte-fundamental-training/ >LTE Fundamentals</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/telecom-training-101/ >Fundamentals 101 Training</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/telecommunications-certification/ >Telecommunications Certification</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/advanced-optical-networking/ >Advanced Optical Networking</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/fiber-optic-communications-training/ >Fiber Optic Training</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend">
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/telecom-training/5g-technology-fundamentals/ >5G Technology Fundamentals</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/oss-bss/ >BSS/OSS Training</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/optical-networking-training/ >Optical Networking Training</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/dwdm-training/ >DWDM Training</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/lte-fundamental-training/ >LTE Fundamentals</a></li>
+    <li><a href=https://mildaintrainings.com/telecom-training/telecom-training-101/ >Fundamentals 101 Training</a></li>
+    </ul>
+    </div>
+    <div class=col-md-4>
+    <p class=menu-title>More Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/telecom-training/ >All Courses Of Telecom Training</a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div class=tab-pane id=v-pills-c8 role=tabpanel aria-labelledby=v-pills-c8-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>Oracle Training</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/oracle-training/billing-and-revenue-management-system-administration/ >BRM System Administration</a></li>
+    <li><a href=https://mildaintrainings.com/oracle-training/billing-and-revenue-management-functional/ >BRM Functional Overview</a></li>
+    <li><a href=https://mildaintrainings.com/oracle-training/brm-pricing-foundation-7-5-with-pricing-design-center/ >BRM Pricing Foundation</a></li>
+    <li><a href=https://mildaintrainings.com/oracle-training/billing-and-revenue-management-pipeline-pricing/ >BRM Pipeline Pricing and Rating</a></li>
+    <li><a href=https://mildaintrainings.com/oracle-training/billing-and-revenue-management-billing-and-finance-7-5/ >BRM Billing and Finance </a></li>
+    <li><a href=https://mildaintrainings.com/oracle-training/billing-and-revenue-management-api-developer-7-5/ >BRM API Developer</a></li>
+    <li><a href=https://mildaintrainings.com/oracle-training/billing-and-revenue-management-pipeline-developer-7-5/ >BRM Pipeline Developer </a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend">
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/oracle-training/billing-and-revenue-management-functional/ >BRM Functional Overview</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend"></div>
+    </div>
+    </div>
+    <div class=tab-pane id=v-pills-c9 role=tabpanel aria-labelledby=v-pills-c9-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>Guidewire Training</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/guidewire-certification/guidewire-policycenter-training/ >Policy Center</a></li>
+    <li><a href=https://mildaintrainings.com/guidewire-certification/guidewire-billing-center-training/ >Billing Center</a></li>
+    <li><a href=https://mildaintrainings.com/guidewire-certification/guidewire-claimcenter-training/ >Claim Center</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend">
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/guidewire-certification/guidewire-policycenter-training/ >Policy Center</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend"></div>
+    </div>
+    </div>
+    <div class=tab-pane id=v-pills-c11 role=tabpanel aria-labelledby=v-pills-c11-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>Scrumstudy</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Popular Courses</p>
+    <ul class=list-unstyled>
+    <li> <a href=https://mildaintrainings.com/scrum-master-certified-training/ >Scrum Master Certification</a></li>
+    <li> <a href=https://mildaintrainings.com/scrum-product-owner-certification-master/ >Scrum Product Owner Certified</a></li>
+    <li> <a href=https://mildaintrainings.com/samc-training/ >Scrum Agile Master Certified</a></li>
+    <li> <a href=https://mildaintrainings.com/scrum-developer-certification-csd-courses/ >Scrum Developer Certified</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend">
+    <p class=menu-title>Trending Courses</p>
+    <ul class=list-unstyled>
+    <li> <a href=https://mildaintrainings.com/scrum-master-certified-training/ >Scrum Master Certification Training</a></li>
+    </ul>
+    </div>
+    <div class=col-md-4>
+    <p class=menu-title>Master Courses</p>
+    <ul class=list-unstyled>
+    <li> <a href=https://mildaintrainings.com/scrumstudy-training-certification-courses/ >SCRUM Master Certification & Training Courses</a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div class=tab-pane id=v-pills-c12 role=tabpanel aria-labelledby=v-pills-c12-tab>
+    <div class="smallmenuhead d-md-none">
+    <div class="row justify-content-around">
+    <div class=col-3><a class="goBack back"></a></div>
+    <div class=m-auto>More Courses</div>
+    <div class=col-3><a class=menuClose></a></div>
+    </div>
+    </div>
+    <div class=row>
+    <div class=col-md-4>
+    <p class=menu-title>Other Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/aws-certification-training-online/ >Amazon Web Services</a></li>
+    <li><a href=https://mildaintrainings.com/courses/hr-training-certification-courses/ >HR Analytics</a></li>
+    <li><a href=https://mildaintrainings.com/lean-six-sigma-black-belt-certification/ >Black Belt</a></li>
+    <li><a href=https://mildaintrainings.com/lean-six-sigma-green-belt-certification/ >Green Belt</a></li>
+    <li><a href=https://mildaintrainings.com/lean-six-sigma-yellow-belt-certification/ >Yellow Belt</a></li>
+    <li><a href=https://mildaintrainings.com/xamarin-training/ >Xamarin</a></li>
+    <li><a href=https://mildaintrainings.com/angularjs-5-training/ >Angular</a></li>
+    <li><a href=https://mildaintrainings.com/microsoft-azure-certification/az-900-microsoft-azure-fundamentals-course/ >Azure Fundamentals</a></li>
+    <li><a href=https://mildaintrainings.com/microsoft-azure-certification/az-100-azure-administrator-deployment/ >Azure Infrastructure and Deployment</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend">
+    <p class=menu-title>Other Courses</p>
+    <ul class=list-unstyled>
+    <li><a href=https://mildaintrainings.com/microsoft-azure-certification/az-101-azure-administrator-integration-and-security/ >Azure Integration and Security</a></li>
+    <li><a href=https://mildaintrainings.com/microsoft-azure-certification/az-400-microsoft-azure-devops-solutions/ >Azure DevOps Solutions</a></li>
+    <li><a href=https://mildaintrainings.com/microsoft-azure-certification/az-301-azure-solutions-architect-design-course/ >Azure Solutions Architect-Design</a></li>
+    <li><a href=https://mildaintrainings.com/microsoft-azure-certification/az-300-azure-architect-technologies-course/ >Azure Architect Technologies</a></li>
+    <li><a href=https://mildaintrainings.com/sap-training/sap-hana-training/ >SAP HANA</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/sap-training/sap-crm-training/ >SAP CRM</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/sap-training/sap-abap-training/ >SAP ABAP</a>
+    </li>
+    <li><a href=https://mildaintrainings.com/sap-training/sap-hr-training/ >SAP HR</a></li>
+    <li><a href=https://mildaintrainings.com/sap-training/sap-plm-training/ >SAP PLM</a></li>
+    <li><a href=https://mildaintrainings.com/web-development/ >Web Development</a></li>
+    </ul>
+    </div>
+    <div class="col-md-4 trend"></div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXCK2MQ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- request callback Modal -->
+<div class="modal fade" id="callbackModal" tabindex="-1" role="dialog" aria-labelledby="callbackModalTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <form action="/thank-you/" method="POST">
+                <div class="modal-header border-0">
+                    <h5 class="modal-title" id="callbackModalTitle">
+                        Request Callback
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body pt-0">
+                    <div class="form-group mb-3">
+                        <input type="text" name="uname" required placeholder="Name*" oninput="this.value = this.value.replace(/[^a-zA-Z, ]/, '')" class="form-control" />
+                    </div>
+                    <div class="form-group mb-3">
+                        <input type="email" name="uemail" required placeholder="Email*" oninput="this.value = $(this).val().replace(/[^\w\s\][.@]/gi, '');" class="form-control" />
+                    </div>
+                    <div class="form-group mb-3">
+                        <input type="text" name="uno" required placeholder="Number*" pattern="[0-9+ -()]{6,15}" maxlength="10" minlength="10" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" class="form-control" />
+                    </div>
+                    <div class="form-group mb-3">
+                        <textarea name="uquery" class="form-control" placeholder="Message" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" rows="3"></textarea>
+                    </div>
+                    <p class="mb-2" style="line-height: 1">
+                        <small>
+                            By submitting the form, you agree to our terms and conditions
+                            and our privacy policy. This site is protected by reCAPTCHA and the Google
+                            <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+                            <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+                        </small>
+                    </p>
+                    <div class="text-center mb-3">
+                        <button type="submit" class="btn btn-blueviolet px-5">
+                            SUBMIT
+                        </button>
+                    </div>
+                </div>
+                <input type="hidden" name="token" value="4be2b07edf93fbbff5e83675cadf48d07361a3e69b4f250d76581348207b6ad0">
+                <input type="hidden" name="fromaddress" class="fromaddress">
+            </form>
+        </div>
+    </div>
+</div><!-- Corporate Modal -->
+<div class="modal fade" id="corporateModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content overflow-hidden border-0">
+            <form action="/thank-you/" method="POST">
+                <div class="modal-body p-0">
+                    <div class="d-flex">
+                        <div class="col-12 col-lg-6 d-none d-lg-flex p-0">
+                            <img src="/static/images/common/placeholder.svg" class="lazy img-fluid" height="499" width="538" loading="lazy" data-src="/static/images/cyber-security/pop.jpg" alt="pop.jpg" style="object-fit: cover" />
+                        </div>
+                        <div class="col-12 col-lg-6 position-relative">
+                            <div class="modal-header border-0">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="form-group mb-3">
+                                <input type="text" name="uname" required placeholder="Name*" oninput="this.value = this.value.replace(/[^a-zA-Z, ]/, '')" class="form-control" />
+                            </div>
+                            <div class="form-group mb-3">
+                                <input type="email" name="uemail" required placeholder="Email*" oninput="this.value = $(this).val().replace(/[^\w\s\][.@]/gi, '');" class="form-control" />
+                            </div>
+                            <div class="form-group mb-3">
+                                <input type="text" name="uno" required placeholder="Number*" pattern="[0-9+ -()]{6,15}" maxlength="10" minlength="10" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" class="form-control" />
+                            </div>
+            
+                            <div class="form-group mb-3">
+                                <input type="text" name="ucourse" placeholder="Course" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" class="form-control" />
+                            </div>
+                            <div class="form-group mb-3">
+                                <input type="text" name="uloc" placeholder="Location" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" class="form-control" />
+                            </div>
+                            <div class="form-group mb-3">
+                                <input type="text" name="ucompany" placeholder="Company" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" class="form-control" />
+                            </div>
+                            <div class="form-group mb-3">
+                                <input type="text" name="participants" placeholder="No of Participants" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" class="form-control" />
+                            </div>
+                            <div class="form-group mb-1">
+                                <textarea name="uquery" class="form-control" placeholder="Message" oninput="this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');" rows="3"></textarea>
+                            </div>
+                            <p class="mb-2">
+                                <small>
+                                    By submitting form, you agree to our terms and
+                                    conditions and our privacy policy. This site is protected by reCAPTCHA and the Google
+                                    <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+                                    <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+                                </small>
+                            </p>
+                            <div class="text-center mb-4">
+                                <button type="submit" class="btn btn-blueviolet px-5">
+                                    Submit
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <input type="hidden" name="token" value="4be2b07edf93fbbff5e83675cadf48d07361a3e69b4f250d76581348207b6ad0">
+                <input type="hidden" name="fromaddress" class="fromaddress">
+            </form>
+        </div>
+    </div>
+</div>
+<!-- corporate btn fixed -->
+<a data-toggle="modal" data-target="#corporateModal" href="#corporateModal" class="shadow corporate-btn">Corporate</a><script>function domReady(){$(document).ready(function(){});}</script><!-- Google Captcha V3 -->
+<!-- <script>
+    function gRecaptchaReady(callback,prop){
+        if (typeof grecaptcha === 'object'){
+            hideLoader()
+            callback(prop)
+        }else{
+            console.log('waiting for recaptcha')
+            showLoader()
+            setTimeout(gRecaptchaReady.bind(null,callback,prop),300)
+        }
+    }
+    function submitFormWithRecaptchaToken(self){
+            grecaptcha.ready(function() {
+                grecaptcha.execute('6Lf6jtoUAAAAAOFAAy7M0gFlesg3p9fCfp4WOwGq', {action: 'submit'}).then(function(token) {
+                    // Add your logic to submit to your backend server here.
+                    var gtoken = self.querySelector('[name=gtoken]')
+                    if(gtoken == null){
+                    var inp = document.createElement('input')
+                    inp.setAttribute('type','hidden')
+                    inp.setAttribute('name','gtoken')
+                    inp.setAttribute('value',token)
+                    self.appendChild(inp)
+                    }else{
+                    gtoken.setAttribute('value',token)
+                    }
+                    self.submit()
+                });
+            });
+    }
+    function onSubmitHandler(e){
+        e.preventDefault();
+        gRecaptchaReady(submitFormWithRecaptchaToken,self=this)
+    }
+    window.addEventListener('load', function () {
+        document.querySelectorAll('form').forEach(function(form){
+            form.addEventListener('submit',onSubmitHandler)
+        })
+    });
+</script> -->
+<!-- helper methods -->
+<script>
+    function loadCSS(css_files){
+        css_files.forEach(
+            function (file_url) {
+                var cssMain = document.createElement('link');
+                cssMain.href = file_url;
+                cssMain.rel = 'stylesheet';
+                cssMain.type = 'text/css';
+                document.getElementsByTagName('head')[0].appendChild(cssMain);
+            }
+        )
+    }
+    function loadJS(src, callback, attr) {
+        var script = document.createElement("script"),
+            loaded;
+        script.src = src;
+        script.async = true;
+        if (attr){
+            attr.forEach(function(item){
+                var attr_name = Object.keys(item)[0]
+                var attr_value = item[attr_name]
+                script.setAttribute(attr_name,attr_value)
+            })
+        }
+        if (callback) {
+            script.onreadystatechange = script.onload = function() {
+                if (!loaded) {
+                    callback();
+                }
+                loaded = true;
+            };
+        }
+        document.getElementsByTagName("head")[0].appendChild(script);
+    }
+    function jQueryLoaded(method) {
+        if (window.jQuery) {
+            //console.log('jQuery Loaded')
+            method()
+        } else {
+            setTimeout(function() {
+                jQueryLoaded(method)
+            }, 50);
+        }
+    }
+</script>
+<!-- Optional JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous" defer></script>
+<!--javascript-->
+<script src="/static/js/theme-v2.js" defer></script>
+<script src="/static/js/lazyload.js" defer></script>
+<script src="/static/js/header.js" defer></script>
+<script src="/static/web-components/sticky-footer.js" defer></script>
+<script>
+    $(document).ready(function() {
+        $(document).on("input", ".phone", function() {
+            this.value = this.value.replace(/[^\d\.\-]/g,'').replace(/[^\w\s]/gi, '');
+        });
+
+        $(document).on("input", ".input", function() {
+            this.value = $(this).val().replace(/[^\w\s\][.,'/-]/gi, '');
+        });
+
+        $(document).on("input", ".email", function() {
+            this.value = $(this).val().replace(/[^\w\s\][.@]/gi, '');
+        });
+    });
+</script>
+<!-- google schema scripts -->
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https://mildaintrainings.com/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://mildaintrainings.com/search?tag={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Mildaintrainings Solutions",
+        "url": "https://mildaintrainings.com",
+        "sameAs": ["https://www.facebook.com/mildaintrainings/", "https://twitter.com/mildain_sol", "https://plus.google.com/+MildainSolutions", "https://www.instagram.com/mildain_sol/", "https://www.youtube.com/channel/UCF_Oi2yOaAhak37n6ld-b_Q", "https://www.linkedin.com/company/mildain-solutions/", "https://mildainsolutions.tumblr.com/", "https://www.quora.com/profile/Mildain-Solution"],
+        "logo": "https://mildaintrainings.com/wp-content/uploads/2017/09/logo1.png",
+        "legalName": "Mildaintraininigs Solutions",
+        "address": [{
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Francisco",
+                "addressRegion": "California",
+                "postalCode": "94105",
+                "streetAddress": "201 Spear Street, Suite 1100"
+            },
+            {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Raleigh",
+                "addressRegion": "North Carolina",
+                "postalCode": "27607",
+                "streetAddress": "801 Corporate Center Dr,Suite 138"
+            },
+            {
+                "@type": "PostalAddress",
+                "addressCountry": "India",
+                "addressLocality": "Noida",
+                "addressRegion": "Uttarpradesh",
+                "postalCode": "201301",
+                "streetAddress": "Plot no 17, c4 block sector 36 Market"
+            },
+            {
+                "@type": "PostalAddress",
+                "addressCountry": "United Kingdom",
+                "addressLocality": "London",
+                "addressRegion": "London",
+                "postalCode": "EC1V 2NX",
+                "streetAddress": "Kemp House, 152 - 160 City Road"
+            },
+            {
+                "@type": "PostalAddress",
+                "addressCountry": "Singapore",
+                "addressLocality": "7500A Beach Rd",
+                "addressRegion": "7500A Beach Rd",
+                "postalCode": "199591",
+                "streetAddress": "#14-302, The Plaza"
+            }
+        ],
+        "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "+1-844-7121-833",
+                "contactType": "Customer Service",
+                "contactOption": "TollFree",
+                "areaServed": ["US", "CA", "MX"]
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "(+91)-844-7121-833",
+                "contactType": "Customer Service",
+                "contactOption": "TollFree",
+                "areaServed": "IN"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+44-844-7121-833",
+                "contactType": "Customer Service",
+                "contactOption": "TollFree",
+                "areaServed": "UK"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+61-844-7121-833",
+                "contactType": "Customer Service",
+                "contactOption": "TollFree",
+                "areaServed": "AU"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+65-844-7121-833",
+                "contactType": "Customer Service",
+                "contactOption": "TollFree",
+                "areaServed": "SG"
+            }
+        ]
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Mildaintrainings",
+        "url": "https://mildaintrainings.com/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://mildaintrainings.com/?s={search_term}",
+            "query-input": "required name=search_term"
+        }
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "http://www.mildaintrainings.com",
+        "logo": "https://mildaintrainings.com/wp-content/uploads/2017/09/logo1.png",
+        "contactPoint": [{
+            "@type": "ContactPoint",
+            "telephone": "+91 8447121833",
+            "contactType": "customer service"
+        }]
+    }
+</script>
+<!-- GTAG -->
+// load third party scripts onload
+
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","AW-939986541"),gtag("config","UA-131665450-1"),gtag('config', 'AW-10777627722');</script>
+<script>
+function loadGA(delay=4000){
+    setTimeout(function(){
+        js_files = ['/static/js/third-party-v2.js','https://www.googletagmanager.com/gtag/js?id=AW-939986541','https://apis.google.com/js/platform.js?onload=renderOptIn','https://www.googletagmanager.com/gtag/js?id=UA-131665450-1']
+        js_files.forEach(function(src){
+            loadJS(src)
+        });
+        loadJS('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',callback=null,attr=[{'data-ad-client':"ca-pub-7017415774461229"}])
+    }, delay);
+}
+</script>
+<!-- Facebook Pixel Code -->
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=4429957670438583&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code --><script type="application/ld+json">
+{"@context": "http://schema.org", "@type": "EducationEvent", "name": "Telecom Training", "description": "DWDM Training Certificate", "performer": "Mildaintrainings", "image": "https://mildaintrainings.com/images/courses/telecom.png", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "Place", "name": "Online Classroom", "address": {"@type": "PostalAddress", "name": "DWDM Training Certificate"}}, "offers": {"@type": "AggregateOffer", "lowPrice": "0.00", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "availability": "http://schema.org/InStock", "validFrom": "09 Jun, 2021", "price": "0.00", "priceCurrency": "USD" , "highPrice": "550.00"}, "organizer": {"@type": "Organization", "name": "Mildaintrainings", "url": "https://mildaintrainings.com/"}, "startDate": "23 July, 2021", "endDate": "28 July, 2021", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "duration": "3"}
+</script>
+<script type="application/ld+json">
+{"@context": "http://schema.org", "@type": "EducationEvent", "name": "Telecom Training", "description": "DWDM Training Certificate", "performer": "Mildaintrainings", "image": "https://mildaintrainings.com/images/courses/telecom.png", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "Place", "name": "Online Classroom", "address": {"@type": "PostalAddress", "name": "DWDM Training Certificate"}}, "offers": {"@type": "AggregateOffer", "lowPrice": "0.00", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "availability": "http://schema.org/InStock", "validFrom": "19 Jun, 2021", "price": "0.00", "priceCurrency": "USD" , "highPrice": "550.00"}, "organizer": {"@type": "Organization", "name": "Mildaintrainings", "url": "https://mildaintrainings.com/"}, "startDate": "02 Aug, 2021", "endDate": "09 Aug, 2021", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "duration": "42"}
+</script>
+<script type="application/ld+json">
+{"@context": "http://schema.org", "@type": "EducationEvent", "name": "Telecom Training", "description": "DWDM Training Certificate", "performer": "Mildaintrainings", "image": "https://mildaintrainings.com/images/courses/telecom.png", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "Place", "name": "Online Classroom", "address": {"@type": "PostalAddress", "name": "DWDM Training Certificate"}}, "offers": {"@type": "AggregateOffer", "lowPrice": "0.00", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "availability": "http://schema.org/InStock", "validFrom": "29 Jun, 2021", "price": "0.00", "priceCurrency": "USD" , "highPrice": "550.00"}, "organizer": {"@type": "Organization", "name": "Mildaintrainings", "url": "https://mildaintrainings.com/"}, "startDate": "14 Aug, 2021", "endDate": "20 Aug, 2021", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "duration": "17"}
+</script>
+<script type="application/ld+json">
+{"@context": "http://schema.org", "@type": "EducationEvent", "name": "Telecom Training", "description": "DWDM Training Certificate", "performer": "Mildaintrainings", "image": "https://mildaintrainings.com/images/courses/telecom.png", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "Place", "name": "Online Classroom", "address": {"@type": "PostalAddress", "name": "DWDM Training Certificate"}}, "offers": {"@type": "AggregateOffer", "lowPrice": "0.00", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "availability": "http://schema.org/InStock", "validFrom": "09 Jul, 2021", "price": "0.00", "priceCurrency": "USD" , "highPrice": "550.00"}, "organizer": {"@type": "Organization", "name": "Mildaintrainings", "url": "https://mildaintrainings.com/"}, "startDate": "21 Aug, 2021", "endDate": "27 Aug, 2021", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "duration": "3"}
+</script>
+<script type="application/ld+json">
+{"@context": "http://schema.org", "@type": "EducationEvent", "name": "Telecom Training", "description": "DWDM Training Certificate", "performer": "Mildaintrainings", "image": "https://mildaintrainings.com/images/courses/telecom.png", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "Place", "name": "Online Classroom", "address": {"@type": "PostalAddress", "name": "DWDM Training Certificate"}}, "offers": {"@type": "AggregateOffer", "lowPrice": "0.00", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "availability": "http://schema.org/InStock", "validFrom": "19 Jul, 2021", "price": "0.00", "priceCurrency": "USD" , "highPrice": "550.00"}, "organizer": {"@type": "Organization", "name": "Mildaintrainings", "url": "https://mildaintrainings.com/"}, "startDate": "30 Aug, 2021", "endDate": "06 Sep, 2021", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "duration": "3"}
+</script>
+<script type="application/ld+json">
+{"@context": "http://schema.org", "@type": "EducationEvent", "name": "Telecom Training", "description": "DWDM Training Certificate", "performer": "Mildaintrainings", "image": "https://mildaintrainings.com/images/courses/telecom.png", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "Place", "name": "Online Classroom", "address": {"@type": "PostalAddress", "name": "DWDM Training Certificate"}}, "offers": {"@type": "AggregateOffer", "lowPrice": "0.00", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "availability": "http://schema.org/InStock", "validFrom": "29 Jul, 2021", "price": "0.00", "priceCurrency": "USD" , "highPrice": "550.00"}, "organizer": {"@type": "Organization", "name": "Mildaintrainings", "url": "https://mildaintrainings.com/"}, "startDate": "10 Sep, 2021", "endDate": "17 Sep, 2021", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "duration": "3"}
+</script>
+<script type="application/ld+json">
+{"@context": "http://schema.org", "@type": "EducationEvent", "name": "Telecom Training", "description": "DWDM Training Certificate", "performer": "Mildaintrainings", "image": "https://mildaintrainings.com/images/courses/telecom.png", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "Place", "name": "Online Classroom", "address": {"@type": "PostalAddress", "name": "DWDM Training Certificate"}}, "offers": {"@type": "AggregateOffer", "lowPrice": "0.00", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "availability": "http://schema.org/InStock", "validFrom": "08 Aug, 2021", "price": "0.00", "priceCurrency": "USD" , "highPrice": "550.00"}, "organizer": {"@type": "Organization", "name": "Mildaintrainings", "url": "https://mildaintrainings.com/"}, "startDate": "18 Sep, 2021", "endDate": "24 Sep, 2021", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "duration": "17"}
+</script>
+<script type="application/ld+json">
+{"@context": "http://schema.org", "@type": "EducationEvent", "name": "Telecom Training", "description": "DWDM Training Certificate", "performer": "Mildaintrainings", "image": "https://mildaintrainings.com/images/courses/telecom.png", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "Place", "name": "Online Classroom", "address": {"@type": "PostalAddress", "name": "DWDM Training Certificate"}}, "offers": {"@type": "AggregateOffer", "lowPrice": "0.00", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "availability": "http://schema.org/InStock", "validFrom": "08 Aug, 2021", "price": "0.00", "priceCurrency": "USD" , "highPrice": "550.00"}, "organizer": {"@type": "Organization", "name": "Mildaintrainings", "url": "https://mildaintrainings.com/"}, "startDate": "25 Sep, 2021", "endDate": "01 Oct, 2021", "url": "https://mildaintrainings.com/telecom-training/dwdm-training/", "duration": "17"}
+</script>
+</body></html>
+<div>
+<h3/>!مرحبا بك في تطبيقي<p>هذا هو محتوى التطبيق الخاص بالمهندس رائد ابراهيم خليل.<p/>
+<div/>
+<body/>
+<html/>
